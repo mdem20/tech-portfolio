@@ -10,4 +10,4 @@ For example, A recent project I did I tested the Presidents on the DuckDuckGo Se
 You can list [links](https://raw.githubusercontent.com/mdem20/tech-portfolio/main/assets/Unit10-test.PNG)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/Unit10-test.png)
+![Add alternate text for image](/assets/unit10-test.png)
