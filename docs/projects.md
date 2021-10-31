@@ -5,10 +5,9 @@ title: Projects
 
 Embed any notable projects in this page.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+For example, A recent project I did I tested the Presidents on the DuckDuckGo Search. The image shows that the test was completed and worked.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
+You can list [links](https://github.com/mdem20/tech-portfolio/blob/main/assets/Unit10-test.PNG?raw=true)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/Unit10-test.png)
